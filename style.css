@@ -7,7 +7,7 @@
    }
 
    .container {
-      border-color: black;
+      border: black;
    }
 
    #p1 {
