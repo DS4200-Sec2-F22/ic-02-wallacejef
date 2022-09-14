@@ -1,7 +1,7 @@
 # ic-02
 ic-02 - Intro to HTML and CSS
 
-Link to GitHub Pages: https://ds4200-sec2-f22.github.io/ic-02-wallacejef/`
+Link to GitHub Pages: https://ds4200-sec2-f22.github.io/ic-02-wallacejef/
 
 ## Purpose
 
